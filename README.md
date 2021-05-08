@@ -5,8 +5,10 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on UIKit & SwiftUI
-- 🌱 I’m currently learning Swift & C/C++ Algorithms
+- 🔭  I’m currently working on UIKit & SwiftUI
+- 🌱  I’m currently learning Swift & C/C++ Algorithms
+- 🪖  I use all the time :  Swift, Node, React, PostgreSQL, AWS EC2
+
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -16,4 +18,6 @@
 
 ## GitHub Stats
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ath3r&border_radius=20&theme=radical&layout=compact&langs_count=6" alt="Ather"/>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ath3r&count_private=true&show_icons=true&theme=radical&hide=issues&border_radius=20" alt="Ather" /></p>
 <img src="https://github-readme-stats.vercel.app/api?username=Ath3r&amp;show_icons=true" alt="GitHub Stats">
