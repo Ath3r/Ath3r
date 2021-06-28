@@ -21,7 +21,7 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ath3r&border_radius=20&theme=radical&layout=compact&langs_count=6" alt="Ather"/>
   
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ath3r&count_private=true&show_icons=true&theme=radical&hide=issues&border_radius=20" alt="Ather" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ath3r&count_private=true&show_icons=true&theme=radical&border_radius=20" alt="Ather" />
 
 </p>
 
