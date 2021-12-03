@@ -1,28 +1,26 @@
-# Hi I'm Ather 👋
+# Welcome to Ather's Profile! 👋
 
-<!--
-**Ath3r/Ath3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-<!-- Here are some ideas to get you started: -->
+I'm Ather, an Undergraduate Information Science Student at MSRIT Bangalore Campus 🎓
 
 <!-- - 🔭  I’m currently working on UIKit & SwiftUI -->
-- 🌱  I’m currently learning Swift & C/C++ Algorithms
-- 🪖  I use all the time :  C++, Swift, Node, React, PostgreSQL.
+
+- 🌱 I’m currently learning Swift & C/C++ Algorithms.
+- 🪖 I use all the time : C++, Swift, Node, React, PostgreSQL.
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-<p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abxhr&theme=highcontrast"/>
+<br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ath3r&border_radius=20&theme=radical&layout=compact&langs_count=6" alt="Ather"/>
-  
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ath3r&count_private=true&show_icons=true&theme=radical&border_radius=20" alt="Ather" />
-
-</p>
+  <br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ath3r&count_private=true&show_icons=true&theme=radical&border_radius=20" alt="Ather" />
+</div>
 
 ![](https://komarev.com/ghpvc/?username=ath3r)
