@@ -16,7 +16,7 @@ I'm Ather, an Undergraduate Information Science Student at MSRIT Bangalore Campu
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abxhr&theme=highcontrast"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ath3r&theme=highcontrast"/>
 <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ath3r&border_radius=20&theme=radical&layout=compact&langs_count=6" alt="Ather"/>
   <br/>
