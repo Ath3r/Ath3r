@@ -4,8 +4,8 @@ I'm Ather, an Undergraduate Information Science Student at MSRIT Bangalore Campu
 
 <!-- - 🔭  I’m currently working on UIKit & SwiftUI -->
 
-- 🌱 I’m currently learning Swift & C/C++ Algorithms.
-- 🪖 I use all the time : C++, Swift, Node, React, PostgreSQL.
+- 🌱 I’m currently learning System Design and Design Patterns.
+- 🪖 I use all the time : Java, JS/TS, MongoDB, PostgreSQL, React.
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
