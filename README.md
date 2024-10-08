@@ -59,14 +59,11 @@ A passionate developer with expertise in various technologies including Go, Node
 
 ---
 
-### Recent Projects 📚
-
-Feel free to explore my repositories for more details!
-
----
 
 ### Thanks for stopping by! 🙌
 
 Let's connect and collaborate on exciting projects!
+
+
 
 ![](https://komarev.com/ghpvc/?username=ath3r)
