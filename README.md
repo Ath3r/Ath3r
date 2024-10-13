@@ -9,15 +9,16 @@ A passionate developer with expertise in various technologies including Go, Node
 ### Skills & Technologies 🚀
 
 #### Programming Languages and Frameworks
-- **Go**
-- **Node.js**
-- **Express.js**
-- **NestJS**
-- **React**
+- Go
+- Node.js
+- Express.js
+- NestJS
+- React
 
 #### APIs & Services
 - RESTful API Design
-- GraphQL (experimental)
+- GraphQL
+- gRPC
 
 #### Containerization & Orchestration
 - Docker
