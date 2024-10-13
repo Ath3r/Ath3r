@@ -45,7 +45,7 @@ A passionate developer with expertise in various technologies including Go, Node
 
 
 
-### Technology Logos 🚀
+### Technology  🚀
 
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
